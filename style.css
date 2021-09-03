@@ -55,12 +55,12 @@ form {
     display: flex;
     flex-wrap: wrap;
 }
-form.footerfrm input[type="email"] {
+form.footerfrme input[type="email"] {
     border: 0;
     padding: 0.625rem;
     margin-top: 0.3125rem;
 }
-form.footerfrm input[type=submit] {
+form.footerfrme input[type=submit] {
     background-color: #00d188;
     color: #fff;
     cursor: pointer;

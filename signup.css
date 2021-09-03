@@ -66,8 +66,8 @@ p{
   display: block;
 }
 
-form.fgh input[type=text],form.fgh input[type=number],
-form.fgh input[type=email],form.fgh input[type=date]
+form.fghs input[type=text],form.fghs input[type=number],
+form.fghs input[type=email],form.fghs input[type=date]
 {
   width: 100%;
   height:30px;

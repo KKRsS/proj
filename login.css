@@ -66,8 +66,8 @@ font-weight: 100px;
 display: block;
 }
 
-form.fgh input[type=text],form.fgh input[type=number],
-form.fgh input[type=email],form.fgh input[type=date]
+form.fghd input[type=text],form.fghd input[type=number],
+form.fghd input[type=email],form.fghd input[type=date]
 {
 width: 100%;
 height:30px;
@@ -93,7 +93,7 @@ padding:5px;
 border-radius: 5px;
 box-shadow:inset 2px 1px 4px hotpink;
 }
-form.fgh input[type=submit]
+form.fghd input[type=submit]
 {
 width: 100%;
 border: 2px solid violet;
